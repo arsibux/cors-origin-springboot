@@ -7,7 +7,7 @@ Enabling Cross Origin Requests for a RESTful Web Service in Springboot
 Cross-origin Resource Sharing (CORS) is a W3C specification implemented by most browsers that allows you to specify in a flexible way what kind of cross domain requests are authorized, instead of using some less secured and less powerful hacks like IFrame or JSONP.
 
 
-<p align="center" width="100%">
+<p align="center" width="300%">
     <img width="33%" src="https://user-images.githubusercontent.com/9518132/177003644-182eab35-c743-48ad-bcad-e438696338d4.png">
 </p>
 
