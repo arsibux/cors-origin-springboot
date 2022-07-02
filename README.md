@@ -8,7 +8,7 @@ Cross-origin Resource Sharing (CORS) is a W3C specification implemented by most 
 
 
 <p align="center" width="100%">
-    <img width="75%" src="https://user-images.githubusercontent.com/9518132/177003644-182eab35-c743-48ad-bcad-e438696338d4.png">
+    <img width="50%" src="https://user-images.githubusercontent.com/9518132/177003644-182eab35-c743-48ad-bcad-e438696338d4.png">
 </p>
 
 Spring Framework provides first class support for CORS out-of-the-box, giving you an easier and more powerful way to configure it than typical filter based solutions.
